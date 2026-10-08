@@ -131,7 +131,6 @@ Please provide enough information to identify your account or the relevant estab
 
 If the information is controlled by an establishment using CafeOS, we may direct your request to that establishment or assist it in responding.
 
-**Request response period:** [Applicable response period and process]
 
 Where deletion is restricted by a legal requirement, we will explain which information must be retained and why.
 
