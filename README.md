@@ -2,9 +2,8 @@
 
 Last updated: 8 / 10 /2026
 
-This Privacy Policy explains how **[Legal name of the individual or company operating CafeOS]**, operating as **CafeOS** (“we,” “us,” or “our”), handles information through the CafeOS Owner and CafeOS Cashier applications and their supporting services.
+This Privacy Policy explains how **CafeOS** , handles information through the CafeOS Owner and CafeOS Cashier applications and their supporting services.
 
-**Operator address:** [Business address and country]  
 **Privacy contact:** cafeos.team@gmail.com
 
 ## 1. Scope and Responsibilities
