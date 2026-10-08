@@ -37,11 +37,6 @@ CafeOS processes products, prices, inventory movements, orders, transaction amou
 
 Order information may include customer names and notes entered by an authorized user. Users should avoid entering unnecessary personal or sensitive information in free-text fields.
 
-### Customer loyalty information
-
-When an establishment uses the loyalty program, it can register customer names in Arabic and English, mobile numbers, membership identifiers, points balances, and earning or redemption transactions.
-
-Mobile numbers are used to identify loyalty members within the establishment. The establishment is responsible for informing its customers about the program and obtaining any required consent.
 
 ### Images and support information
 
